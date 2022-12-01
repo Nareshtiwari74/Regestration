@@ -52,8 +52,9 @@ body{
 }
 .btn{
     padding: 10px 60px;
-    background: rgb(59, 163, 223);
+    background: 6fd649;
     border: 0;
+    color: white;
     outline: none;
     cursor: pointer;
     font-size: 22px;
